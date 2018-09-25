@@ -1,3 +1,17 @@
 body {
-  background-color: white;
+  background-color: #841313;
+}
+.navbar {
+  display: flex;
+  background-size: cover;
+  background-color: #14104c;
+  height: 200px;
+
+}
+h1 {
+  color: white;
+  float:right;
+}
+p {
+  font-size: 20px;
 }
