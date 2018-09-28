@@ -5,10 +5,12 @@ body {
   margin: 0;
 }
 .navbar {
-  display: flex;
-  background-size: cover;
-  background-color: #14104c;
-  height: 100px;
+  color: white;
+}
+  .navbar ul {
+    color: white;
+    font-weight: bold;
+  }
 
 }
 h1 {
@@ -24,11 +26,10 @@ p {
   height: 500px;
   margin-top: 5px;
 }
-.playdates {
+
   border: 2px dashed white;
   height:300px;
   margin-top: 5px;
-
 }
 .playdates h3 {
   color: white;
@@ -47,7 +48,4 @@ footer {
 }
 .cubes {
 
-}
-.navbar h1 {
-    text-align: center;
 }
