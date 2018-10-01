@@ -6,6 +6,7 @@ body {
 }
 .navbar {
   color: white;
+  border: 5px solid white;
 }
   .navbar ul {
     color: white;
@@ -26,7 +27,7 @@ p {
   height: 500px;
   margin-top: 5px;
 }
-
+ .playdates {
   border: 2px dashed white;
   height:300px;
   margin-top: 5px;
