@@ -1,12 +1,12 @@
 body {
-  background-color: #687B9B;
+   background: linear-gradient(to bottom, #687B9B 0%, #c3c3c3 100%);
   width: 100%;
   height: 100%;
   margin: 0;
 }
 .navbar {
   color: white;
-  border: 5px solid white;
+  border: 5px solid #c3c3c3;
 }
   .navbar ul {
     color: white;
@@ -21,21 +21,24 @@ p {
   color: white;
 }
 .slideshow {
-  border: 5px solid white;
+  border: 5px solid #c3c3c3;
   height: 500px;
   margin-top: 5px;
+
 }
  .selection {
-   border: 5px solid white;
+   border: 5px solid #c3c3c3;
    height: 400px;
    width: auto;
+
  }
  .icons {
-   border: 5px solid white;
+   border: 5px solid #c3c3c3;
    height: 100px;
    width: auto;
+   font-size: 30px;
  }
 footer {
   height: 100px;
-  border: 5px solid white;
+  border: 5px solid #c3c3c3;
 }
