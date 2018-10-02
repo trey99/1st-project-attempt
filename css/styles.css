@@ -1,5 +1,5 @@
 body {
-  background-color: #630012;
+  background-color: #687B9B;
   width: 100%;
   height: 100%;
   margin: 0;
@@ -13,40 +13,29 @@ body {
     font-weight: bold;
   }
 
-}
 h1 {
   color: white;
-
 }
 p {
   font-size: 20px;
   color: white;
 }
 .slideshow {
-  border: 2px solid white;
+  border: 5px solid white;
   height: 500px;
   margin-top: 5px;
 }
- .playdates {
-  border: 2px dashed white;
-  height:300px;
-  margin-top: 5px;
-}
-.playdates h3 {
-  color: white;
-  height: 300px;
-  margin-top: 5px;
-}
-.ticketbooth {
-  height:300px;
-  border: 2px dashed white;
-  color: white;
-  margin-top: 5px;
-}
+ .selection {
+   border: 5px solid white;
+   height: 400px;
+   width: auto;
+ }
+ .icons {
+   border: 5px solid white;
+   height: 100px;
+   width: auto;
+ }
 footer {
   height: 100px;
   border: 5px solid white;
-}
-.cubes {
-
 }
