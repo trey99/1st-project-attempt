@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Things</title>
+  <link rel="stylesheet" type="text/css" href="../css/styles.css" />
+</head>
+
+<body>
+  <div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a href="#">About</a>
+  <a href="#">Services</a>
+  <a href="#">Clients</a>
+  <a href="#">Contact</a>
+</div>
+
+<section class="buttons">
+    <h1>Button Hover Effects</h1>
+  <div class="container">
+
+    <a href="https://twitter.com/Dave_Conner" class="btn btn-1">
+      <svg>
+        <rect x="0" y="0" fill="none" width="100%" height="100%"/>
+      </svg>
+     Hover
+    </a>
+    <!--svg hover inspired by https://codepen.io/karimbalaa/pen/qERbBY?editors=110 -->
+    <!--End of Button 1 -->
+
+    <a href="https://twitter.com/Dave_Conner" class="btn btn-2">Hover</a>
+    <!--End of Button 2 -->
+
+    <a href="https://twitter.com/Dave_Conner" class="btn btn-3">Hover</a>
+    <!--End of Button 3 -->
+
+    <a href="https://twitter.com/Dave_Conner" class="btn btn-4"><span>Hover</span></a>
+    <!--End of Button 4 -->
+
+    <a href="https://twitter.com/Dave_Conner" class="btn btn-5">Hover</a>
+    <!--End of Button 5 -->
+
+
+  </div>
+  <p>Follow on <a href="https://twitter.com/Dave_Conner" target="_blank">Twitter</a></p>
+</section>
+
+<!-- Use any element to open the sidenav -->
+<span onclick="openNav()">open</span>
+
+<!-- Add all page content inside this div if you want the side nav to push page content to the right (not used if you only want the sidenav to sit on top of the page -->
+<div id="main">
+
+</div>
+
+  <div class="navbar">
+    <h1>Madison Drama Club</h1>
+    <a>Home</a>
+
+  </div>
+  <div class="slideshow">
+    <p> wwwwwwwwwwwwwwooooooooooooooorrrrrrrrrrrrrrrrrrdddddddddddddddddsssssssssssssssssss</p>
+  </div>
+  <div class="playdates">
+    <h3>hgghdfhsgnfrhadfigfrh8fuhbhbr8bhrhello my name is I LOVE YOU DOG!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! </h3>
+
+  </div>
+  <div class="ticketbooth">
+    <h3>Place Holder</h3>
+
+  </div>
+
+  <footer>
+
+  </footer>
+</body>
+
+</html>
